@@ -1,7 +1,6 @@
 [user]
 	name = TON_NOM
-	email = TON_EMAIL
-
+	email = TON_EMAIL_A_TOI
 
 [alias]
     	st = status
